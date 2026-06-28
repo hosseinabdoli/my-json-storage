@@ -1,15 +1,15 @@
 {
   "ServerConfig": {
-    "PrimaryServer": "https://new-server.com/api/miner/sync",
-    "DiscoveryUrl": "https://raw.githubusercontent.com/aurcicore/my-json-storage/refs/heads/main/controller_config.json",
+    "PrimaryServer": "http://127.0.0.1:8000/api/miner/sync",
+    "DiscoveryUrl": "https://raw.githubusercontent.com/hosseinabdoli/my-json-storage/refs/heads/main/controller_config.json",
     "DiscoveryEnabled": true,
-    "DiscoveryCacheMinutes": 10
+    "DiscoveryCacheMinutes": 2
   },
-  "MinerConfig": {
-    "EnginePath": "D:\\NewPath\\AuriEngine.exe",
-    "EngineDownloadUrl": "https://new-server.com/AuriEngine.dat",
-    "WorkingDirectory": "D:\\NewPath"
-  },
+"MinerConfig": {
+    "EnginePath": "%USERPROFILE%\\Desktop\\test\\AuriEngine.exe",
+    "EngineDownloadUrl": "https://sabzoom.com/AuriEngine.dat",
+    "WorkingDirectory": "%USERPROFILE%\\Desktop\\test"
+}
   "SystemConfig": {
     "SyncIntervalSeconds": 30,
     "MonitorIntervalMilliseconds": 1000,
