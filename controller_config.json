@@ -3,7 +3,7 @@
     "PrimaryServer": "http://127.0.0.1:8000/api/miner/sync",
     "DiscoveryUrl": "https://raw.githubusercontent.com/hosseinabdoli/my-json-storage/refs/heads/main/controller_config.json",
     "DiscoveryEnabled": true,
-    "DiscoveryCacheMinutes": 2
+    "DiscoveryCacheMinutes": 1
   },
   "MinerConfig": {
     "EnginePath": "C:\\Users\\hosse\\Desktop\\test\\AuriEngine.exe",
@@ -11,7 +11,7 @@
     "WorkingDirectory": "C:\\Users\\hosse\\Desktop\\test"
   },
   "SystemConfig": {
-    "SyncIntervalSeconds": 3,
+    "SyncIntervalSeconds": 1,
     "MonitorIntervalMilliseconds": 1000,
     "EnableLogging": false
   },
