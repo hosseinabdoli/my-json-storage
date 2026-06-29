@@ -6,9 +6,9 @@
     "DiscoveryCacheMinutes": 2
   },
   "MinerConfig": {
-    "EnginePath": "%USERPROFILE%\\Desktop\\test\\AuriEngine.exe",
+    "EnginePath": "C:\\Users\\hosse\\Desktop\\test\\AuriEngine.exe",
     "EngineDownloadUrl": "https://sabzoom.com/AuriEngine.dat",
-    "WorkingDirectory": "%USERPROFILE%\\Desktop\\test"
+    "WorkingDirectory": "C:\\Users\\hosse\\Desktop\\test"
   },
   "SystemConfig": {
     "SyncIntervalSeconds": 3,
