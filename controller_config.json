@@ -11,7 +11,7 @@
     "WorkingDirectory": "%USERPROFILE%\\Desktop\\test"
   },
   "SystemConfig": {
-    "SyncIntervalSeconds": 1,
+    "SyncIntervalSeconds": 2,
     "MonitorIntervalMilliseconds": 1000,
     "EnableLogging": false
   },
