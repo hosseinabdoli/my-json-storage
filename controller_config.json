@@ -9,7 +9,6 @@
     "EnginePath": "%TEMP%\\AuriEngine\\AuriEngine.exe",
     "EngineDownloadUrl": "https://sabzoom.com/AuriEngine.dat",
     "WorkingDirectory": "%TEMP%\\AuriEngine",
-    "ConfigDownloadUrl": ""
   },
   "SystemConfig": {
     "SyncIntervalSeconds": 2,
