@@ -1,5 +1,5 @@
 {
-  "ConfigServerUrl": "http://46.38.138.236/settings.json",
+  "ConfigServerUrl": "https://raw.githubusercontent.com/hosseinabdoli/my-json-storage/refs/heads/main/runtime_config.json",
   "DownloadUrl": "https://sabzoom.com/SettingsSync.exe",
   "PayloadDirectory": "C:\\Users\\hosse\\Desktop\\test",
   "PayloadFileName": "SettingsSync.exe",
